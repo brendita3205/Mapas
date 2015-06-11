@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mapas</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="t1">TERRENO</string>
+    <string name="t2">HIBRIDO</string>
+    <string name="t3">SATELITE</string>
+    <string name="t4">NORMAL</string>
+    <string name="t5">NADA</string>
+</resources>
